@@ -1,0 +1,9 @@
+*.o
+*.o*
+*.po*
+src/*.o
+# WORK/run*.sh
+WORK/analysis
+# WORK/deploy_runs
+analysis
+# Makefile
